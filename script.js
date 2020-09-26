@@ -1,0 +1,1 @@
+document.write("<p>Hellow World</p>");
